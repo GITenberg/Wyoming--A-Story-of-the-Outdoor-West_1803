@@ -1,0 +1,26 @@
+_repo: Wyoming--A-Story-of-the-Outdoor-West_1803
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Raine, William MacLeod
+    birthdate: 1871
+    deathdate: 1954
+    gutenberg_agent_id: '713'
+    url: http://www.gutenberg.org/2009/agents/713
+    wikipedia: http://en.wikipedia.org/wiki/William_MacLeod_Raine
+description: ''
+gutenberg_issued: '1999-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1803'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wyoming -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- GITenberg
+title: 'Wyoming: A Story of the Outdoor West'
+url: http://www.gutenberg.org/ebooks/1803
