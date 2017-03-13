@@ -1,5 +1,8 @@
 _repo: Wyoming--A-Story-of-the-Outdoor-West_1803
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Raine, William MacLeod
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/713
     wikipedia: http://en.wikipedia.org/wiki/William_MacLeod_Raine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1803#Wyoming--A-Story-of-the-Outdoor-West
 gutenberg_issued: '1999-07-01'
 gutenberg_type: Text
 identifiers:
